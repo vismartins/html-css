@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body {background-color: salmon;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h1 {background-color: limegreen;
+}
+h2{background-color: aqua;
+}
+p{background-color: azure;}
