@@ -5,5 +5,5 @@
  <a href="https://vismartins.github.io/projeto-android/" target="_blank">Clique aqui para acessar meu projeto sobre Android!</a><br>
  <a href="https://vismartins.github.io/Projeto-Cordel/" target="_blank">Clique aqui para acessar meu projeto Cordel!</a><br>
  <a href="https://vismartins.github.io/Tabelas/" target="_blank">Clique aqui para acessar meu projeto de Tabelas!</a><br>
- <a href="https://vismartins.github.io/Projeto-Social/)" target="_blank">Clique aqui para acessar meu projeto de Redes Sociais!</a>
+ <a href="https://vismartins.github.io/Projeto-Social/" target="_blank">Clique aqui para acessar meu projeto de Redes Sociais!</a>
  
